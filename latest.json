@@ -1,11 +1,11 @@
 {
   "version": "0.1.10",
   "notes": "Fix permisos necesarios para auto update",
-  "pub_date": "2026-03-01T03:08:00Z",
+  "pub_date": "2026-03-01T20:24:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://denethor96.github.io/matchlocal-releases/downloads/MatchLocal_0.1.7_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa0l0dXZvRTVFUnRvQVJQMEl4U3cvWUlQK0RReXJFd1ZTeENXcG9OemNVU2lHbkkxZWVxVkpmbGpOeGIwMXBsV2JETlVwQkVKZHNDdnVxd2hzOFUxMXJoTFlseHZRaGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNDA1OTAzCWZpbGU6TWF0Y2hMb2NhbF8wLjEuN194NjQtc2V0dXAuZXhlCnZYUlROOXpWaUh5bVl5eVQ4YWk0M2VzVG9yL3FTSkh5eWpRTmV5ZWJ3N2xINzFzRlZZRCtKSGhvellsL0FiZGZ2MHpnOGdrbU54VmUycGlzR0p5OUJnPT0K"
+      "url": "https://denethor96.github.io/matchlocal-releases/downloads/MatchLocal_0.1.10_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa0l0dXZvRTVFUnFqbzI5TUJjcWNCb3M5WUJaOTJyMm1vcVFLWlNORUg3amNUU1prcU53b25LamFkVVl0N2w4SUppT002OE9qV1NvUERFVXRwRkZFRk80UVhaM2JIckFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNDA3Mzg5CWZpbGU6TWF0Y2hMb2NhbF8wLjEuMTBfeDY0LXNldHVwLmV4ZQpkWFR6NVVsNHN0RFVNUEFMRGM3ZTFjMnZYS3p0MXordVpWTUZEV2cwYllGSUw0Q2l0QnB4RlFOUjNMN3FiaEthT2N6Zm55MzlUbkhlWWV1MlhDbHVEUT09Cg=="
     }
   }
 }
