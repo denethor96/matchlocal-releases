@@ -1,11 +1,11 @@
 {
-  "version": "0.2.12",
-  "notes": "Custom background and Title for Scoreboard",
-  "pub_date": "2026-03-07T03:51:00Z",
+  "version": "0.2.13",
+  "notes": "Center Title and custom fontsize scoreboard + Fix styles bugs",
+  "pub_date": "2026-03-09T04:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://denethor96.github.io/matchlocal-releases/downloads/MatchLocal_0.2.12_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa0l0dXZvRTVFUnFmdEticmdvbzlSaFB0U21YK1Q1OHdEL0gzUXJocVN3WWtHY0o0aDE2U05Gd21iY1poRW1oOGFtdEQ4NUVrdnh2SGcxc292aUlaNWE2UTZqNTN3WGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyODY2MjA1CWZpbGU6TWF0Y2hMb2NhbF8wLjIuMTJfeDY0LXNldHVwLmV4ZQpoS2RQRVgreitsWVkzOWY0TWFmeGgxRHo2a0QyZHNYVnIveWQrR01NbTNtTFVLNC9KR3MzZEtaNStYV1d4WnA5cDFsWU5Lekd1UlZ6REc0MktwL3lEUT09Cg=="
+      "url": "https://denethor96.github.io/matchlocal-releases/downloads/MatchLocal_0.2.13_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTa0l0dXZvRTVFUmlaZmlCaFRJcWdTbWpPU2JtQm1EQ3ZKanVZYllHdzBYbmpRdTBncDduTnBUNnkvemN6RjNSMENRUmpyMVdwdkduSVA2ZURaYXpmQ3NybHFLRUdWb2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMDQxMjgxCWZpbGU6TWF0Y2hMb2NhbF8wLjIuMTNfeDY0LXNldHVwLmV4ZQpZdjNIODg0OFJrbzQ2TGc3WkRyRitpbHBCYVlxdmw5WHFmeGJmSXVzVjFQYmZteTNWaHJDUHA2YkU3QlAwcjZFRzNCSkRyQUcreUhvek8xeFA1by9DUT09Cg=="
     }
   }
 }
